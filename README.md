@@ -2,7 +2,7 @@
 
 # ForgeGRC
 
-**FIPS 140-3 · GRC Compliance Platform · Automated Evidence & Audit Workflows**
+**GRC Compliance Platform · Automated Evidence & Audit Workflows**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Active%20Development-brightgreen.svg)](#)
