@@ -20,7 +20,6 @@
 ForgeGRC is a compliance automation platform built for security engineers and GRC practitioners operating in **federal and regulated environments**. It bridges hands-on cryptographic assurance with Governance, Risk, and Compliance (GRC) objectives — turning what is normally a manual, documentation-heavy process into a structured, repeatable workflow.
 
 Designed from the ground up for:
-- **FIPS 140-3** cryptographic module validation and CMVP readiness
 - **Multi-framework GRC** — SOC 2, CMMC v2, ISO 27001, PCI DSS 4.0.1, NIST CSF 2.0
 - **Automated scanning** — OpenSCAP, Anchore, CISA KEV integration
 - **Evidence collection** — structured artifact gathering for audits and ATOs
