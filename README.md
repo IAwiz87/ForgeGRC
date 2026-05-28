@@ -19,7 +19,7 @@
 <div align="center">
   <img src="docs/ForgeGRC-dash1.png" alt="ForgeGRC Dash" />
 </div>
-<div align="center">
+
   
 ## Overview
 
@@ -33,7 +33,7 @@ Designed from the ground up for:
 <div align="center">
   <img src="docs/ForgeGRC-dash4.png" alt="ForgeGRC Dash" />
 </div>
-<div align="center">
+
 ---
 
 ## Key Features
