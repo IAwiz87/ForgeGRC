@@ -9,7 +9,6 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Active%20Development-brightgreen.svg)](#)
-[![FIPS 140-3](https://img.shields.io/badge/Standard-FIPS%20140--3-blue.svg)](https://csrc.nist.gov/publications/detail/fips/140/3/final)
 [![Frameworks](https://img.shields.io/badge/Frameworks-SOC2%20%7C%20CMMC%20%7C%20ISO%2027001%20%7C%20PCI%20DSS-orange.svg)](#frameworks)
 
 [📦 Download Latest Release](../../releases/latest) · [🌐 Project Page](https://iawiz87.github.io/ForgeGRC) · [📋 Issues](../../issues)
