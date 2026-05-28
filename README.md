@@ -32,7 +32,6 @@ Designed from the ground up for:
 |---|---|
 | **Compliance Scanning** | OpenSCAP, Anchore, and KEV-integrated automated scanning |
 | **Evidence Collection** | Structured artifact collection mapped to control families |
-| **FIPS 140-3 Module** | CMVP readiness tracking, algorithm validation, entropy testing |
 | **Multi-Framework** | SOC 2, CMMC v2, ISO 27001, PCI DSS 4.0.1, NIST CSF 2.0, FedRAMP |
 | **Policy Generator** | Compliance-aligned policy and documentation templates |
 | **Audit Dashboard** | Control status, gap analysis, and remediation tracking |
@@ -44,7 +43,6 @@ Designed from the ground up for:
 
 ForgeGRC provides coverage across the following standards and frameworks:
 
-- [FIPS 140-3](https://csrc.nist.gov/publications/detail/fips/140/3/final) — Cryptographic Module Validation
 - [NIST SP 800-53 Rev 5](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final) — Security and Privacy Controls
 - [NIST CSF 2.0](https://www.nist.gov/cyberframework) — Cybersecurity Framework
 - [CMMC v2](https://www.acq.osd.mil/cmmc/) — Cybersecurity Maturity Model Certification
