@@ -29,6 +29,10 @@ Designed from the ground up for:
 - **Automated scanning** — OpenSCAP, Anchore, CISA KEV integration
 - **Evidence collection** — structured artifact gathering for audits and ATOs
 
+<div align="center">
+  <img src="docs/ForgeGRC-dash4.png" alt="ForgeGRC Dash" />
+</div>
+<div align="center">
 ---
 
 ## Key Features
