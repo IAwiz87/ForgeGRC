@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/forgegrc-banner.png" alt="ForgeGRC banner" />
+  <img src="forgegrc-banner.png" alt="ForgeGRC banner" />
 </div>
 <div align="center">
 
