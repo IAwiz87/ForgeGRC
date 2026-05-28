@@ -20,6 +20,7 @@
   <img src="docs/ForgeGRC-dash1.png" alt="ForgeGRC Dash" />
 </div>
 <div align="center">
+  
 ## Overview
 
 ForgeGRC is a compliance automation platform built for security engineers and GRC practitioners operating in **federal and regulated environments**. It bridges hands-on cryptographic assurance with Governance, Risk, and Compliance (GRC) objectives — turning what is normally a manual, documentation-heavy process into a structured, repeatable workflow.
